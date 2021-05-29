@@ -1,2 +1,9 @@
-# david-paraguay-pagina-web
-Esta es mi pagina web para mi trabajo de Computer Science
+<html>
+<head>
+
+</head>
+<title>David Paraguay Web Site </title>
+<body>
+
+</body>
+</html>
